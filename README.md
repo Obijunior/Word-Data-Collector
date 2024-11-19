@@ -1,2 +1,3 @@
 # Word-Data-Collector
-Collects data from text files
+
+Cleans a text file and collects information about word count.
